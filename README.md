@@ -7,6 +7,6 @@
 - Accuracy: 85%
 
 #### CancerNet_2: CNN Model using Pytorch(FastAI) and the Breast Histopathology Images Dataset to predict Invasive Ductal Carinoma in mammogram images
-- Dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-imag    es
+- Dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 - Trained on a NVidia Tesla V100
 - Accuracy(so far): 92%
