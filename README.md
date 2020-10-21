@@ -11,5 +11,5 @@
 - Trained on a NVidia Tesla V100
 - Used Transfer learning technique. ie) finetuned a pretrained imagenet NN with cancer data which imporved preformance and speed
 - Accuracy(so far): 95% in about 2 hours
-- I plan to implement this model in Tensorflow once I get the kinks worked out
+
 
