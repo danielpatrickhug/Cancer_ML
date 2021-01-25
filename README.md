@@ -10,6 +10,12 @@
 - Dataset: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 - Trained on a NVidia Tesla V100
 - Used Transfer learning technique. ie) finetuned a pretrained imagenet NN with cancer data which imporved preformance and speed
-- Accuracy(so far): 95% in about 2 hours
+- Accuracy: 95% in about 2 hours
+- In the included notebook I experimented and tested out several different hyper parameter tuning tasks such as
+- Learning rate scheduling
+- Different batch sizes
+- resnet34 vs resnet50
+- Batch data agmentation 
+
 
 
