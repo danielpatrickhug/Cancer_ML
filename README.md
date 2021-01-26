@@ -15,7 +15,7 @@
 - Learning rate scheduling
 - Different batch sizes
 - resnet34 vs resnet50
-- Batch data agmentation 
+- Batch data augmentation 
 
 
 
